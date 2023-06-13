@@ -1,0 +1,43 @@
+// Log is to print something out
+console.log("Hello World");
+
+Hello World debugger eval code:1:9
+undefined
+
+alert("Hi welcome to devtown");
+undefined
+
+alert("Hi welcome to devtown");
+undefined
+
+prompt("Hey, what is your name? ");
+"Biswarup Dutta"
+
+var maggie = "Biswarup Dutta";
+undefined
+
+console.log(maggie);
+Biswarup Dutta debugger eval code:1:9
+undefined
+
+var name = prompt("Enter your age: ");
+undefined
+
+console.log(name);
+24 debugger eval code:1:9
+undefined
+
+"hello" + "world"
+"helloworld"
+
+"hello" +" "+ "world"
+"hello world"
+
+var name = prompt("Hello Master, Enter your name: ");
+undefined
+
+console.log("Welcome sir, "+ name +" to devtown :) ");
+Welcome sir, Jeet to devtown :) debugger eval code:1:9
+undefined
+
+alert("Welcome sir, "+ name +" to devtown :) ");
